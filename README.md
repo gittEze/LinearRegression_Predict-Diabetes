@@ -8,4 +8,4 @@ Ejemplo:
 - IMC: 29.7  
 - Edad: 24  
 
-Resultado: 38.37% de probabilidad de diabetes.
+Resultado: 46.74 %. de probabilidad de diabetes.
